@@ -32,4 +32,3 @@ cacheSolve <- function(x, ...) {
 	x$setinverse(i)
 	i
 }
-## SHA-1:a9dc6530daf2cccbe3170550ac06ac4408518cfe
